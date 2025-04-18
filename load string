@@ -1,1 +1,0 @@
-alocal Rayfield = loadstring(game:HttpGet('https://raw.githubusercontent.com/loading123599/loading.wtf-main-script/refs/heads/main/lua.txt'))()
